@@ -30683,8 +30683,6 @@ evidentes erros de tipografia — a começar pelo sobrenome do escritor, onde Ma
 transformou-se em Malta —, como consta da edição Jackson das Obras completas.
 Essas correções basearam-se nas Poesías de Guillermo Matta, obra editada em 1858,
 disponível em:
-http://books.google.com.br/books?id=o6kGAAAAQAAJ&pg=PP7&lpg=PP7&dq=%
-22Poesias+de+Guillermo+Matta%22&source=web&ots=9UUH6MtMSE&sig=SdZWWQGr9J3AAu-tGqTqs3Fjyc&hl=pt-BR&sa=X&oi=book_result&resnum=1&ct=result
 Consta apenas o dia, 1º, e o mês, julho; o ano não é conhecido.
 
 
@@ -40877,7 +40875,7 @@ principalmente perturbados com aquela repreensão.
 Declarei-lhes, e eles o entenderam assim, que a minha missão
 estava terminada. Retiveram-me ainda umas duas horas, pedindo
 as minhas últimas indicações, e eu indiquei tudo o que me parecia
-útil ao sucesso da peça, sucesso que_ainda uma vez lhes
+útil ao sucesso da peça, sucesso que ainda uma vez lhes
 predisse.
 Voltei para casa, acreditando ainda, tão ingênuo era, que o Sr. de
 Girardin me mandaria no dia seguinte alguma palavra amigável.
@@ -73253,7 +73251,7 @@ próprio para liquidar o negócio era o tribunal, acudiu o membro que sim: —
 Há aí duas opiniões, uma em cada aparte. Com a de Napoleão, que é a minha, são
 três. É o que parece; mas também pode suceder que as duas se combinem ou se
 completem. O primeiro aparte condenou a publicidade; o segundo, uma vez que a
-publicidade se fez, pede o tribunal. Creio que é isto mesmo. Assim pudesse eu _
+publicidade se fez, pede o tribunal. Creio que é isto mesmo. Assim pudesse eu 
 explicar a contradição dos aguaceiros de ontem e de hoje com a hora de sol desta
 manhã. Sol divino, Hélios amado, quando te vi hoje espiar para todas as árvores
 que me cercavam fiquei alegre. Havia um pedaço de céu azul, não muito azul;
